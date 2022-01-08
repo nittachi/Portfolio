@@ -96,6 +96,7 @@ span {
 /***********************************DESCRIPTION PAGE*********************************/
 .bottom {
   background-color: black;
+  background-size: cover;
   color: white;
   padding-top: 5px;
   padding-left: 10px;
