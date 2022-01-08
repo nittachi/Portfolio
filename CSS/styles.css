@@ -1,0 +1,258 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather Sans", sans-serif;
+  width: 100%;
+}
+h1 {
+  font-family: "Merriweather Sans", sans-serif;
+  letter-spacing: 2px;
+  color: crimson;
+  font-size: 50px;
+  font-weight: bolder;
+  position: relative;
+  padding-bottom: 0;
+  top: 23px;
+}
+
+h2 {
+  font-family: "Merriweather Sans", sans-serif;
+  letter-spacing: 2px;
+  color: white;
+  font-size: 20px;
+  position: relative;
+  top: 0;
+  bottom: 900px;
+  padding-top: 0;
+  line-height: 0;
+}
+h3 {
+  text-align: center;
+  top: 110px;
+  position: relative;
+  margin-top: 30px;
+}
+
+p {
+  bottom: 30px;
+  position: relative;
+}
+
+.top {
+  background-image: url("oziel.jpg");
+  background-blend-mode: color;
+  background-color: rgba(0, 0, 0, 0.6);
+  background-size: cover;
+  padding-top: 30px;
+  position: relative;
+  height: 600px;
+  width: 100%;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
+/*********************************HEADING LINKS*****************************************/
+a:link {
+  text-decoration: none;
+}
+span {
+  color: white;
+}
+.fairy {
+  color: crimson;
+  position: relative;
+  right: 350px;
+  font-weight: bolder;
+  font-size: larger;
+}
+.home {
+  position: relative;
+  left: 180px;
+  text-decoration: none;
+}
+.about {
+  position: relative;
+  left: 210px;
+}
+.service {
+  position: relative;
+  left: 240px;
+}
+.portfolio {
+  position: relative;
+  left: 270px;
+}
+.blog {
+  position: relative;
+  left: 300px;
+}
+.contact {
+  position: relative;
+  left: 330px;
+}
+.subject {
+  text-align: center;
+  padding-top: 80px;
+}
+
+/***********************************DESCRIPTION PAGE*********************************/
+.bottom {
+  background-color: black;
+  width: 99.2%;
+  color: white;
+  padding-top: 5px;
+  padding-left: 10px;
+  position: relative;
+  height: 56.25rem;
+}
+
+.my-image {
+  width: 300px;
+  height: 300px;
+  position: relative;
+  margin: 25px 30px auto 45px;
+  border: 15px solid red;
+  float: left;
+}
+
+.skill {
+  width: 80%;
+  height: 20%;
+  line-height: 2;
+  text-align: left;
+}
+table {
+  width: 50%;
+  line-height: 2;
+  text-align: left;
+  bottom: 30px;
+  position: relative;
+}
+.h1service {
+  color: white;
+}
+#service1 {
+  background-color: #292625fb;
+  width: 28%;
+  height: 250px;
+  margin: 90px 0px 30px 45px;
+  position: relative;
+}
+#service2 {
+  background-color: #292625fb;
+  width: 28%;
+  height: 250px;
+  position: relative;
+  left: 450px;
+  bottom: 280px;
+}
+#service3 {
+  background-color: #292625fb;
+  width: 28%;
+  height: 250px;
+  position: relative;
+  left: 850px;
+  bottom: 549px;
+}
+.er {
+  text-decoration: underline;
+  text-decoration-color: crimson;
+  color: white;
+}
+#about-me {
+  position: relative;
+  margin-bottom: 45px;
+  top: 1px;
+  text-align: left;
+}
+.paragraph {
+  text-align: center;
+  top: 100px;
+}
+/************************************SOCIAL MEDIA ICONS******************************************/
+.fa {
+  padding: 20px;
+  text-align: center;
+  margin: 20px 25px;
+  font-size: 30px;
+  width: 50px;
+}
+.fa-facebook {
+  color: white;
+  padding: 5px;
+  font-size: 30px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 250px;
+  border: solid white;
+  border-width: 1px;
+}
+.fa-twitter {
+  color: white;
+  padding: 5px;
+  font-size: 30px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 250px;
+  border: solid white;
+  border-width: 1px;
+}
+.fa-pinterest {
+  color: white;
+  padding: 5px;
+  font-size: 30px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 100px;
+  border: solid white;
+  border-width: 1px;
+}
+.fa-instagram {
+  color: white;
+  padding: 5px;
+  font-size: 30px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 250px;
+  border: solid white;
+  border-width: 1px;
+}
+.fa-pencil {
+  border: solid rgba(226, 11, 54, 0.609);
+  border-radius: 50%;
+  border-width: 2px;
+  color: white;
+  font-size: 30px;
+  position: relative;
+  padding: 8px;
+  bottom: 80px;
+  width: 20px;
+  text-align: center;
+}
+.fa-flag {
+  border: solid rgba(226, 11, 54, 0.609);
+  border-radius: 50%;
+  border-width: 2px;
+  color: white;
+  font-size: 30px;
+  position: relative;
+  padding: 8px;
+  bottom: 80px;
+  width: 20px;
+  text-align: center;
+}
+.fa-laptop {
+  border: solid rgba(226, 11, 54, 0.609);
+  border-radius: 50%;
+  border-width: 2px;
+  color: white;
+  font-size: 30px;
+  position: relative;
+  padding: 8px;
+  bottom: 80px;
+  width: 20px;
+  text-align: center;
+}
