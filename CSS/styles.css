@@ -132,25 +132,25 @@ table {
 #service1 {
   background-color: #292625fb;
   width: 28%;
-  height: 250px;
+  height: 27%;
   margin: 90px 0px 30px 45px;
   position: relative;
 }
 #service2 {
   background-color: #292625fb;
   width: 28%;
-  height: 250px;
+  height: 27%;
   position: relative;
   left: 450px;
-  bottom: 280px;
+  bottom: 273px;
 }
 #service3 {
   background-color: #292625fb;
   width: 28%;
-  height: 250px;
+  height: 27%;
   position: relative;
   left: 850px;
-  bottom: 549px;
+  bottom: 546px;
 }
 .er {
   text-decoration: underline;
